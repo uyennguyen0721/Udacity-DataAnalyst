@@ -1,0 +1,216 @@
+country,income,employ_above_15,agr,ind,ser,education,region
+Afghanistan,,26.20000076,,,,0.3,Asia-Pacific
+Albania,1594.495067,41.90000153,,,,8.9,Eastern Europe
+Algeria,2124.957754,30.5,,,,3.8,Africa
+Andorra,21595.39548,,,,,,Western Europe and Other
+Angola,473.1363435,69.19999695,,,,2.5,Africa
+Antigua and Barbuda,12452.28204,,,,,11.9,Latin America and Caribbean
+Argentina,8717.176296,45.79999924,0.300000012,10.89999962,88.5,9.8,Latin America and Caribbean
+Armenia,1253.8133,33.70000076,46.09999847,9.5,44.5,11.0,Eastern Europe
+Australia,24295.08138,54.59999847,2.400000095,9.100000381,88.19999695,11.3,Western Europe and Other
+Austria,26171.69091,49.40000153,5.699999809,13.39999962,80.90000153,10.7,Western Europe and Other
+Azerbaijan,1573.64218,54.79999924,36.70000076,9.0,54.29999924,10.9,Eastern Europe
+Bahamas,21728.70888,61.20000076,0.5,5.199999809,94.19999695,10.5,Latin America and Caribbean
+Bahrain,14082.9146,29.79999924,,,,7.2,Asia-Pacific
+Bangladesh,459.8625139,53.29999924,,,,2.4,Asia-Pacific
+Barbados,9757.443433,60.09999847,,,,,Latin America and Caribbean
+Belarus,2067.609425,49.0,,,,11.4,Eastern Europe
+Belgium,24512.41314,41.20000076,1.299999952,10.80000019,87.40000153,11.6,Western Europe and Other
+Belize,3754.122862,39.29999924,,,,8.0,Latin America and Caribbean
+Benin,360.6554107,57.79999924,,,,1.4,Africa
+Bermuda,65430.60131,,,,,,non-UN
+Bhutan,1017.718731,38.09999847,,,,,Asia-Pacific
+Bolivia,1101.038461,62.20000076,,,,6.3,Latin America and Caribbean
+Bosnia and Herzegovina,1969.482738,34.90000153,,,,7.0,Eastern Europe
+Botswana,4025.39536,38.70000076,,,,5.4,Africa
+Brazil,4090.555803,52.09999847,15.0,13.0,71.90000153,6.7,Latin America and Caribbean
+Brunei,18745.80477,54.90000153,,,,,Asia-Pacific
+Bulgaria,2332.363131,42.79999924,6.099999905,28.10000038,65.80000305,11.7,Eastern Europe
+Burkina Faso,261.4805054,75.69999695,,,,0.7,Africa
+Burundi,131.1716587,83.40000153,,,,1.8,Africa
+Cambodia,468.031827,73.40000153,,,,2.8,Asia-Pacific
+Cameroon,640.7628163,49.40000153,,,,3.8,Africa
+Canada,25943.73602,57.5,1.5,10.89999962,87.59999847,14.0,Western Europe and Other
+Cape Verde,1613.584414,42.40000153,,,,3.1,Africa
+Cayman Islands,,,1.0,3.599999905,95.5,,non-UN
+Central African Republic,223.0974528,,,,,,Africa
+Chad,299.8800932,66.59999847,,,,0.6,Africa
+Channel Islands,42994.34591,,,,,,
+Chile,6190.109402,37.20000076,5.800000191,11.30000019,82.90000153,9.7,Latin America and Caribbean
+China,1640.861518,69.09999847,,,,5.9,Asia-Pacific
+Colombia,2913.479828,52.79999924,6.699999809,15.80000019,77.40000153,6.2,Latin America and Caribbean
+Comoros,354.8387555,58.79999924,,,,2.0,Africa
+"Congo, Dem. Rep.",94.76973518,51.0,,,,3.6,
+"Congo, Rep.",1150.392879,52.59999847,,,,4.8,
+Costa Rica,4836.674305,39.5,4.400000095,12.80000019,82.30000305,8.3,Latin America and Caribbean
+Cote d'Ivoire,572.2971337,38.20000076,,,,1.7,
+Croatia,6325.674267,38.59999847,14.89999962,17.79999924,67.09999847,10.3,Eastern Europe
+Cuba,3884.798515,43.79999924,9.399999619,12.80000019,77.80000305,9.9,Latin America and Caribbean
+Cyprus,14719.25766,49.90000153,2.900000095,10.19999981,86.19999695,11.4,Asia-Pacific
+Czech Republic,7488.669018,,,,,,Eastern Europe
+Denmark,32400.06061,58.20000076,1.5,11.80000019,86.69999695,12.6,Western Europe and Other
+Djibouti,811.9017619,,,,,1.5,Africa
+Dominica,5290.613602,,,,,,Latin America and Caribbean
+Dominican Republic,3360.408656,,,,,,Latin America and Caribbean
+Ecuador,1610.967343,45.59999847,4.300000191,12.60000038,83.0,7.7,Latin America and Caribbean
+Egypt,1678.954796,17.89999962,43.29999924,6.0,50.59999847,4.9,Africa
+El Salvador,2523.523599,44.29999924,4.800000191,19.0,76.19999695,6.2,Latin America and Caribbean
+Equatorial Guinea,6774.478148,41.70000076,,,,4.1,Africa
+Eritrea,170.8777406,52.09999847,,,,1.8,Africa
+Estonia,6570.330139,51.09999847,3.200000048,21.5,75.19999695,11.4,Eastern Europe
+Ethiopia,161.5928951,72.30000305,5.5,17.39999962,76.59999847,0.8,Africa
+Fiji,2335.321253,37.0,,,,8.7,Asia-Pacific
+Finland,27495.24136,53.0,2.799999952,11.89999962,85.19999695,12.0,Western Europe and Other
+France,23133.35113,44.79999924,2.200000048,11.69999981,85.80000305,10.1,Western Europe and Other
+Gabon,3999.642216,52.70000076,,,,5.2,Africa
+Gambia,593.5751773,65.30000305,,,,1.7,Africa
+Georgia,1083.08988,48.5,57.40000153,3.900000095,38.5,12.2,Eastern Europe
+Germany,24463.84647,46.09999847,1.600000024,16.10000038,82.19999695,11.7,Western Europe and Other
+Ghana,305.7511071,64.5,,,,4.8,Africa
+Greece,14352.83954,37.0,13.19999981,9.699999809,77.0,9.7,Western Europe and Other
+Greenland,20556.63474,,,,,,
+Grenada,6102.639132,,,,,,Latin America and Caribbean
+Guadeloupe,,39.0,,,,,
+Guatemala,1810.295335,42.5,19.10000038,24.60000038,75.09999847,3.6,Latin America and Caribbean
+Guinea,388.163132,77.69999695,,,,0.9,Africa
+Guinea-Bissau,154.2631682,50.59999847,,,,1.0,Africa
+Guyana,1037.127543,42.5,,,,9.0,Latin America and Caribbean
+Haiti,384.5855208,34.90000153,,,,3.0,Latin America and Caribbean
+Honduras,1354.497039,35.0,,,,5.4,Latin America and Caribbean
+"Hong Kong, China",32952.71213,50.20000076,0.200000003,6.300000191,93.5,,
+Hungary,5868.3017,40.20000076,2.700000048,21.10000038,76.19999695,10.9,Eastern Europe
+Iceland,36952.19207,69.69999695,2.599999905,9.0,85.90000153,,Western Europe and Other
+India,621.8994139,32.70000076,,,,3.1,Asia-Pacific
+Indonesia,953.9355312,42.09999847,44.59999847,15.0,40.5,5.5,Asia-Pacific
+Iran,1994.647193,26.20000076,,,,4.6,Asia-Pacific
+Iraq,710.2087191,12.30000019,,,,3.3,Asia-Pacific
+Ireland,30669.37259,50.20000076,1.299999952,11.30000019,87.0,11.2,Western Europe and Other
+Isle of Man,27612.48388,,0.699999988,3.900000095,95.40000153,,
+Israel,20715.56805,45.90000153,0.600000024,10.19999981,88.40000153,12.2,Western Europe and Other
+Italy,20102.23023,34.40000153,3.299999952,16.79999924,79.90000153,9.9,Western Europe and Other
+Jamaica,,49.0,8.300000191,4.599999905,86.80000305,9.9,Latin America and Caribbean
+Japan,39965.85551,46.59999847,4.300000191,17.70000076,76.90000153,12.0,Asia-Pacific
+Jordan,2250.274213,13.19999981,,,,7.9,Asia-Pacific
+Kazakhstan,2166.323302,57.40000153,,,,11.5,Asia-Pacific
+Kenya,442.0213127,66.59999847,,,,5.3,Africa
+Kiribati,769.2194408,,,,,8.6,
+South Korea,14446.3586,,,,,,Asia-Pacific
+Kosovo,1614.51344,,,,,,
+Kuwait,25034.0479,41.59999847,,,,6.4,Asia-Pacific
+Kyrgyz Republic,325.8628655,,,,,,
+Lao,435.6645778,,,,,,
+Latvia,5695.361455,50.40000153,7.900000095,16.39999962,74.80000305,12.5,Eastern Europe
+Lebanon,5103.490175,22.20000076,,,,7.8,Asia-Pacific
+Lesotho,430.3513273,52.20000076,,,,7.9,Africa
+Liberia,196.9509939,53.0,,,,2.0,Africa
+Libya,7458.766454,22.10000038,,,,,Africa
+Liechtenstein,80275.88488,,,,,,Western Europe and Other
+Lithuania,5287.136551,48.09999847,10.19999981,19.5,70.30000305,12.1,Eastern Europe
+Luxembourg,53628.23455,43.09999847,,,,10.7,Western Europe and Other
+"Macao, China",24595.65317,57.40000153,0.200000003,18.10000038,81.69999695,,
+"Macedonia, FYR",1993.12215,26.29999924,20.29999924,29.29999924,50.09999847,9.1,
+Madagascar,247.3222293,81.0,,,,4.0,Africa
+Malawi,148.2569961,69.19999695,,,,3.0,Africa
+Malaysia,4695.229726,42.79999924,10.0,24.70000076,65.19999695,7.2,Asia-Pacific
+Maldives,3209.469325,40.40000153,7.099999905,31.79999924,55.90000153,3.3,Asia-Pacific
+Mali,255.1821602,33.79999924,,,,0.8,Africa
+Malta,10405.84596,28.89999962,0.200000003,14.80000019,84.40000153,,Western Europe and Other
+Marshall Islands,2404.736431,,,,,8.5,Asia-Pacific
+Martinique,,38.90000153,,,,,
+Mauritania,616.1063541,45.90000153,,,,1.3,Africa
+Mauritius,4419.912257,35.20000076,8.100000381,27.29999924,64.30000305,7.4,Africa
+Mexico,6211.927234,40.59999847,4.599999905,19.0,75.69999695,7.1,Latin America and Caribbean
+"Micronesia, Fed. Sts.",2185.269074,,,,,,
+Moldova,530.0947081,44.20000076,31.89999962,12.39999962,55.59999847,10.8,Eastern Europe
+Monaco,85942.67113,,,,,,Western Europe and Other
+Mongolia,653.8074697,50.40000153,,,,8.8,Asia-Pacific
+Montenegro,1958.154415,,,,,10.2,Eastern Europe
+Morocco,1632.1342,23.29999924,61.29999924,14.5,24.10000038,2.2,Africa
+Mozambique,323.7736997,82.19999695,,,,1.5,Africa
+Myanmar,,66.40000153,,,,4.3,Asia-Pacific
+Namibia,2512.927204,37.20000076,,,,6.4,Africa
+Nepal,241.0469797,54.59999847,,,,1.1,Asia-Pacific
+Netherlands,26007.67914,53.29999924,,,,11.1,Western Europe and Other
+Netherlands Antilles,,46.20000076,,,,,
+New Zealand,15103.23038,58.29999924,5.099999905,10.5,84.09999847,12.0,Western Europe and Other
+Nicaragua,1130.956438,34.90000153,8.399999619,17.79999924,73.19999695,5.4,Latin America and Caribbean
+Niger,171.7644805,38.09999847,,,,0.5,Africa
+Nigeria,458.6349173,36.09999847,,,,3.6,Africa
+Norway,41245.80863,59.5,1.399999976,7.900000095,90.5,13.3,Western Europe and Other
+Oman,10006.30307,21.89999962,,,,4.5,Asia-Pacific
+Pakistan,620.2956378,18.79999924,,,,2.1,Asia-Pacific
+Palau,6587.7246,,,,,,Asia-Pacific
+Panama,4726.880151,40.90000153,4.5,8.800000191,86.69999695,9.4,Latin America and Caribbean
+Papua New Guinea,627.1163523,68.69999695,,,,2.9,Asia-Pacific
+Paraguay,1352.975654,64.90000153,,,,6.8,Latin America and Caribbean
+Peru,2529.840728,60.20000076,7.599999905,42.90000153,49.40000153,7.9,Latin America and Caribbean
+Philippines,1225.045039,45.5,24.39999962,11.30000019,64.30000305,8.9,Asia-Pacific
+Poland,5552.50127,39.70000076,15.0,17.5,67.5,12.1,Eastern Europe
+Portugal,11716.00896,50.90000153,12.39999962,18.79999924,68.69999695,7.2,Western Europe and Other
+Puerto Rico,18053.78721,33.79999924,0.400000006,11.30000019,88.40000153,,
+Qatar,32070.9591,38.40000153,0.0,3.900000095,95.90000153,7.4,Asia-Pacific
+Reunion,,34.90000153,,,,,
+Romania,2444.048428,45.0,31.39999962,25.29999924,43.29999924,11.2,Eastern Europe
+Russia,2654.200194,51.79999924,7.800000191,20.70000076,71.59999847,12.5,Eastern Europe
+Rwanda,291.0580268,80.80000305,,,,2.5,Africa
+St. Kitts and Nevis,10607.8774,,,,,,
+St. Lucia,5315.874333,,,,,,
+St. Vincent and the Grenadines,4872.784507,,,,,,
+Samoa,1771.581102,,,,,11.5,Asia-Pacific
+San Marino,30808.27931,,0.300000012,23.29999924,76.40000153,,Western Europe and Other
+Sao Tome and Principe,,,,,,3.4,
+Saudi Arabia,9440.180027,17.0,0.400000006,1.0,98.5,4.4,Asia-Pacific
+Senegal,539.4896428,56.29999924,33.0,4.900000095,42.0,1.3,Africa
+Serbia,1102.68089,,19.20000076,18.70000076,62.09999847,9.6,Eastern Europe
+Serbia and Montenegro,,39.09999847,,,,,
+Seychelles,7721.541646,,,,,11.1,Africa
+Sierra Leone,242.8925156,63.79999924,,,,1.3,Africa
+Singapore,29925.50494,51.09999847,0.800000012,16.79999924,82.40000153,5.9,Asia-Pacific
+Slovak Republic,7334.109759,43.29999924,2.400000095,24.79999924,72.80000305,11.7,
+Slovenia,12588.10838,50.59999847,9.199999809,23.39999962,67.19999695,11.2,Eastern Europe
+Solomon Islands,1014.873466,51.59999847,,,,4.5,Asia-Pacific
+Somalia,,50.5,,,,0.8,Africa
+South Africa,3548.09031,32.90000153,7.800000191,13.69999981,78.40000153,8.0,Africa
+Spain,16074.46178,41.90000153,3.299999952,11.60000038,85.09999847,8.5,Western Europe and Other
+Sri Lanka,1075.625538,38.59999847,37.90000153,0.800000012,33.0,8.8,Asia-Pacific
+Sudan,464.1288726,27.5,,,,2.7,Africa
+Suriname,2422.818519,31.29999924,,,,6.7,Latin America and Caribbean
+Swaziland,1715.684609,47.09999847,,,,6.7,Africa
+Sweden,32431.9404,56.29999924,0.899999976,9.300000191,89.59999847,12.5,Western Europe and Other
+Switzerland,37877.18249,57.09999847,2.700000048,12.0,85.40000153,12.4,Western Europe and Other
+Syria,1368.930491,16.29999924,,,,4.6,
+Taiwan,,46.5,,,,10.3,
+Tajikistan,180.0892749,47.5,,,,10.0,Asia-Pacific
+Tanzania,394.224159,76.09999847,80.0,2.099999905,17.89999962,3.6,
+Thailand,2458.517431,65.09999847,40.5,19.0,40.29999924,6.2,Asia-Pacific
+Timor-Leste,299.8856849,53.29999924,,,,1.7,Asia-Pacific
+Togo,257.4007154,48.59999847,,,,2.1,Africa
+Tonga,2067.535705,,,,,11.1,Asia-Pacific
+Trinidad and Tobago,10264.67428,53.20000076,,,,9.3,Latin America and Caribbean
+Tunisia,2776.257059,21.5,,,,4.0,Africa
+Turkey,5154.661097,22.29999924,48.5,15.0,36.5,5.3,Western Europe and Other
+Turkmenistan,860.7116809,53.40000153,,,,10.4,Asia-Pacific
+Tuvalu,1457.394721,,,,,,Asia-Pacific
+Uganda,323.0773993,79.80000305,,,,3.3,Africa
+Ukraine,1037.312259,48.29999924,,,,11.9,Eastern Europe
+United Arab Emirates,31929.79817,36.0,,,,7.7,Asia-Pacific
+United Kingdom,28913.09629,53.09999847,0.600000024,9.600000381,89.5,12.8,Western Europe and Other
+United States,38349.39879,56.0,0.800000012,9.399999619,89.80000305,13.5,Western Europe and Other
+Uruguay,7233.906191,44.79999924,5.199999809,12.5,82.30000305,9.7,Latin America and Caribbean
+Uzbekistan,725.3469456,51.70000076,,,,10.9,Asia-Pacific
+Vanuatu,1418.075283,,,,,5.8,Asia-Pacific
+Venezuela,5401.421719,45.70000076,1.799999952,11.39999962,85.80000305,8.4,Latin America and Caribbean
+West Bank and Gaza,,11.5,34.29999924,8.800000191,55.29999924,7.3,
+Vietnam,581.5782774,67.90000153,,,,6.5,Asia-Pacific
+Yemen,573.8957089,,,,,,Asia-Pacific
+Zambia,372.0836755,53.90000153,,,,4.8,Africa
+Zimbabwe,351.1720467,58.79999924,,,,6.2,Africa
+Central African Rep.,,63.09999847,,,,1.9,Africa
+Czech Rep.,,46.09999847,2.799999952,27.0,70.09999847,13.1,
+Dominican Rep.,,40.29999924,,,,7.2,
+"Korea, Dem. Rep.",,56.0,,,,,
+"Korea, Rep.",,48.59999847,8.600000381,16.0,75.30000305,11.4,
+Kyrgyzstan,,48.70000076,35.40000153,10.69999981,53.79999924,11.0,Asia-Pacific
+Laos,,78.09999847,,,,2.3,Asia-Pacific
+"Yemen, Rep.",,20.5,,,,0.6,
+Saint Lucia,,,,,,9.0,Latin America and Caribbean
